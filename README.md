@@ -4,7 +4,7 @@
 
 ## Description
 
-_This web app will convert a number (1 - 3,999) into a Roman numeral._
+_This web app will tell you if a year you enter is a leap year!_
 
 ## Specs
 | Behavior        | Input           | Outcome  |
